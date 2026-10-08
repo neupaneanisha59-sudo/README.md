@@ -1,129 +1,152 @@
-Hi, I'm Anisha Neupane 👋
+# 👋 Hi, I'm Anisha Neupane
 
-💻 Computer Science & Information Technology Student | 🌐 Web Developer | 🔐 Cybersecurity Enthusiast
+### 💻 Computer Science & Information Technology Student | 🌐 Web Developer | 🔐 Cybersecurity Enthusiast
 
-I'm a 3rd-year Computer Science & Information Technology student passionate about technology, web development, and cybersecurity.
-
-I enjoy learning how software works, building web-based projects, solving programming problems, and exploring ways to make applications more secure.
-
-Currently, I'm focused on strengthening my programming fundamentals, developing practical web development skills, and learning more about cybersecurity and secure software development.
-
----
-
-🚀 About Me
-
-- 🎓 Currently pursuing Bachelor of Computer Science & Information Technology
-- 💻 Interested in Web Development
-- 🔐 Passionate about Cybersecurity & Web Application Security
-- 🐍 Learning and working with Python
-- ☕ Programming with Java
-- 💻 Practicing C Programming
-- 🌐 Building websites using HTML & CSS
-- 🧠 Interested in Data Structures, Algorithms & Problem Solving
-- 🌱 Continuously learning new technologies
-- 🎯 Looking for opportunities to gain practical experience through projects and internships
+<p align="left">
+  <a href="https://github.com/YOUR-USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
 ---
 
-🛠️ Technical Skills
+## 👩‍💻 About Me
 
-Programming Languages
+I'm a **3rd-year Computer Science & Information Technology student** with a strong interest in **Web Development, Software Development, and Cybersecurity**.
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-"C" (https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+I enjoy building projects, solving programming problems, learning new technologies, and exploring how web applications can be designed with security in mind.
 
+I'm currently focused on strengthening my programming fundamentals, developing practical web development skills, and expanding my knowledge of cybersecurity.
+
+- 🎓 3rd Year **Computer Science & Information Technology Student**
+- 🌐 Interested in **Web Development**
+- 🔐 Passionate about **Cybersecurity & Web Security**
+- 🐍 Learning and building with **Python**
+- ☕ Working with **Java**
+- 💻 Practicing **C Programming**
+- 🎨 Building web interfaces with **HTML & CSS**
+- 🧠 Interested in **Data Structures & Algorithms**
+- 🌱 Currently expanding my knowledge of modern web technologies
+- 🎯 Looking for opportunities to learn, collaborate, and gain practical experience
+
+---
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,java" />
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+## 🔐 Cybersecurity Interests
+
+I'm currently developing my knowledge in:
+
+- 🌐 Web Application Security
+- 🔒 Secure Coding Practices
+- 🛡️ Network Security Fundamentals
+- 🔎 Vulnerability Assessment
+- 🔑 Authentication & Authorization
+- 📋 OWASP Security Concepts
+- 🧪 Security Testing Fundamentals
+- ⚠️ Common Web Vulnerabilities
+- 🐧 Linux & Security Fundamentals
+
+> 🔎 My cybersecurity learning focuses on ethical, legal, and authorized security research.
+
+---
+
+## 📚 Core Computer Science
+
+My academic and self-learning interests include:
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Computer Networks
+- Operating Systems
+- Web Technologies
+- Software Engineering
+- Information Security
+- Problem Solving
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio Website
+
+A responsive personal portfolio website showcasing my education, technical skills, projects, and interests.
+
+**Tech:** `HTML` `CSS`
+
+🔗 [View Project](#)
+
+---
+
+### 🐍 Python Projects
+
+A collection of Python projects and programming exercises created to improve programming fundamentals, logical thinking, and problem-solving skills.
+
+**Tech:** `Python`
+
+🔗 [View Repository](#)
+
+---
+
+### ☕ Java Projects
+
+Java-based academic and personal projects focused on object-oriented programming and core programming concepts.
+
+**Tech:** `Java` `OOP`
+
+🔗 [View Repository](#)
+
+---
+
+### 🔐 Cybersecurity Learning
+
+A collection of cybersecurity notes, educational exercises, secure coding practices, and authorized security labs documenting my cybersecurity learning journey.
+
+**Tech:** `Cybersecurity` `Web Security` `Python`
+
+🔗 [View Repository](#)
+
+---
+
+## 🌱 Currently Learning
+
+```text
 Web Development
-
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-Cybersecurity Interests
-
-- Web Application Security
-- Secure Coding
-- Network Security Fundamentals
-- Vulnerability Awareness
-- Authentication & Authorization
-- OWASP Security Concepts
-- Ethical Hacking Fundamentals
-
-Tools
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-📚 Currently Learning
-
-Web Development
-     ↓
-Frontend Development
-     ↓
-Backend Development
-     ↓
-Database Technologies
-     ↓
-Web Application Security
-     ↓
-Cybersecurity
-
-I'm continuously improving my knowledge through academic work, personal projects, coding practice, and hands-on experimentation.
-
----
-
-🔭 Projects I'm Working On
-
-🌐 Web Development Projects
-
-Building responsive and user-friendly websites while learning modern web development concepts.
-
-🔐 Cybersecurity Projects
-
-Exploring cybersecurity concepts through educational labs, secure coding exercises, and web security research.
-
-💻 Programming Projects
-
-Developing small applications and academic projects using Python, Java, and C to improve programming and problem-solving skills.
-
----
-
-🎯 2026 Goals
-
-- [ ] Build and publish multiple web development projects
-- [ ] Develop a professional personal portfolio
-- [ ] Improve Python, Java and C programming skills
-- [ ] Learn JavaScript
-- [ ] Learn Git & GitHub workflows
-- [ ] Learn database development
-- [ ] Study OWASP Top 10
-- [ ] Build cybersecurity-focused projects
-- [ ] Participate in coding challenges
-- [ ] Contribute to open-source projects
-- [ ] Secure a Web Development / Cybersecurity internship
-
----
-
-📊 GitHub Activity
-
-I use GitHub to document my learning journey, publish projects, experiment with technologies, and collaborate with other developers.
-
----
-
-🤝 Let's Connect
-
-I'm always interested in connecting with fellow students, developers, cybersecurity enthusiasts, and technology professionals.
-
-📧 Email: neupaneanisha59@gmail.com
-
-💼 LinkedIn: "Anisha Neupane" (https://www.linkedin.com/in/anisha-neupane-0b2175424)
-
-🐙 GitHub: "Anisha Neupane" (https://github.com/)
-
----
-
-💡 "Learn. Build. Secure. Repeat."
-
-⭐ Thanks for visiting my profile!
+      │
+      ├── HTML & CSS
+      │
+      ├── JavaScript
+      │
+      ├── Frontend Development
+      │
+      └── Backend Development
+              │
+              ▼
+        Database Technologies
+              │
+              ▼
+       Web Application Security
+              │
+              ▼
+          Cybersecurity
